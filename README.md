@@ -14,7 +14,7 @@
 
 ---
 
-## INDEX. Ⅱ___프로젝트 Concept 및 분석 라이브러리 소개개___
+## INDEX. Ⅱ___프로젝트 Concept 및 분석 라이브러리 소개___
 
 ___Concept___
 
@@ -43,20 +43,22 @@ import wordcloud
 --- 
 ## INDEX. Ⅲ___프로젝트 방향___
 
+
 ![프로젝트방향](https://github.com/seohyuny/ml_project/assets/151902232/eb27707c-fafa-484b-99ba-dacb9e104beb)
 
-**당뇨의 발병 원인 분석**</br>
-&nbsp;&nbsp;&nbsp; 1) 유전적 원인 </br>
-                      - 췌장의 베타세포 유전적 결함
-                      - 인슐린 수용체 유전적 결함
-                      - 인슐린 작용력을 감소시키는 유전자
+
+**___당뇨의 발병 원인 분석___**<br>
+&nbsp;&nbsp;&nbsp; 1) 유전적 원인</br>
+&nbsp;&nbsp;&nbsp; - 췌장의 베타세포 유전적 결함</br>
+&nbsp;&nbsp;&nbsp; - 인슐린 수용체 유전적 결함</br>
+&nbsp;&nbsp;&nbsp; - 인슐린 작용력을 감소시키는 유전자</br>
 
 &nbsp;&nbsp;&nbsp; 2) 환경적 원인</br>
-                      - 스트레스
-                      - 노화
-                      - 비만증 등
+&nbsp;&nbsp;&nbsp; - 스트레스
+&nbsp;&nbsp;&nbsp; - 노화
+&nbsp;&nbsp;&nbsp; - 비만증 등
 
-## INDEX. Ⅳ___Process___
+## INDEX.Ⅳ ___DataSets & 분석변수___
 
 - ##### DataSets
   - [NHIS_2018] <https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm>
@@ -81,13 +83,12 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 
 
 
+## INDEX.Ⅴ ___Data 전처리 (dataset 정보 및 가공)___
 
-- ##### Data 전처리 (dataset 정보 및 가공)
-
-- 사용한 colunms
+- ##### 사용한 colunms
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/23c10fdf-8f9e-49fd-84d2-6eebbb2bcf6e)
 
-- Data perprocessing
+- ##### Data perprocessing
 
 1) 기본 데이터프레임 생성
 2) EDA (탐색적 데이터 분석)
@@ -96,7 +97,7 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 5) 컬럼명 재구성
 6) 스케일링 및 데이터 csv 저장
 
-- ##### Machine-Learning (Model 정보)
+## INDEX.Ⅵ ___Machine-Learning (Model 정보)___
 
 1) SVC
 2) Decisiontree
@@ -109,7 +110,7 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/eb76dd4a-e5e5-4160-b4d5-5909615dcd2c)  ![image](https://github.com/seohyuny/ml_project/assets/154740829/47010c45-f1db-40d7-9f5c-d181a994c172)
 
 
-## 최종 Model
+## INDEX.Ⅶ ___최종 Model___
 
 - Adaboost
 
@@ -117,7 +118,7 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/27294c40-a89d-4278-a5df-8e485e6a2c67)
 
 
-## 서비스화
+## INDEX.Ⅷ ___서비스화___
 
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/835449d1-f8f5-4977-967b-8868b5a81c97)
 
