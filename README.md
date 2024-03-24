@@ -2,7 +2,7 @@
 ### 당뇨병 예측 머신러닝 분석 프로젝트 입니다.
 ---
 
-INDEX. Ⅰ___Team DBDBDeep 소개___
+## INDEX. Ⅰ___Team DBDBDeep 소개___
 
 
 ![조서현](https://github.com/seohyuny/ml_project/assets/154740829/299c4cb0-c98b-4358-b88d-c363000d818c)
@@ -14,13 +14,7 @@ INDEX. Ⅰ___Team DBDBDeep 소개___
 
 ---
 
-INDEX. Ⅱ___프로젝트 방향___
-
-![프로젝트방향](https://github.com/seohyuny/ml_project/assets/151902232/eb27707c-fafa-484b-99ba-dacb9e104beb)
-
-**당뇨의 발병 원인 분석**</br>
-&nbsp;&nbsp;&nbsp; 1) 유전적 원인 </br>
-&nbsp;&nbsp;&nbsp; 2) 환경적 원</br>
+## INDEX. Ⅱ___프로젝트 Concept 및 분석 라이브러리 소개개___
 
 ___Concept___
 
@@ -47,8 +41,22 @@ import wordcloud
 ```
 
 --- 
+## INDEX. Ⅲ___프로젝트 방향___
 
-___Process___
+![프로젝트방향](https://github.com/seohyuny/ml_project/assets/151902232/eb27707c-fafa-484b-99ba-dacb9e104beb)
+
+**당뇨의 발병 원인 분석**</br>
+&nbsp;&nbsp;&nbsp; 1) 유전적 원인 </br>
+                      - 췌장의 베타세포 유전적 결함
+                      - 인슐린 수용체 유전적 결함
+                      - 인슐린 작용력을 감소시키는 유전자
+
+&nbsp;&nbsp;&nbsp; 2) 환경적 원인</br>
+                      - 스트레스
+                      - 노화
+                      - 비만증 등
+
+## INDEX. Ⅳ___Process___
 
 - ##### DataSets
   - [NHIS_2018] <https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm>
