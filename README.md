@@ -2,6 +2,7 @@
 ### 당뇨병 예측 머신러닝 분석 프로젝트 입니다.
 ---
 
+
 ## INDEX. Ⅰ___Team DBDBDeep 소개___
 
 
@@ -13,6 +14,7 @@
 조서현 / 김유진 / 이수현
 
 ---
+
 
 ## INDEX. Ⅱ___프로젝트 Concept 및 분석 라이브러리 소개___
 
@@ -41,6 +43,7 @@ import wordcloud
 ```
 
 --- 
+
 ## INDEX. Ⅲ___프로젝트 방향___
 
 
@@ -48,15 +51,16 @@ import wordcloud
 
 
 **___당뇨의 발병 원인 분석___**<br>
+
 &nbsp;&nbsp;&nbsp; 1) 유전적 원인</br>
 &nbsp;&nbsp;&nbsp; - 췌장의 베타세포 유전적 결함</br>
 &nbsp;&nbsp;&nbsp; - 인슐린 수용체 유전적 결함</br>
 &nbsp;&nbsp;&nbsp; - 인슐린 작용력을 감소시키는 유전자</br>
 
 &nbsp;&nbsp;&nbsp; 2) 환경적 원인</br>
-&nbsp;&nbsp;&nbsp; - 스트레스
-&nbsp;&nbsp;&nbsp; - 노화
-&nbsp;&nbsp;&nbsp; - 비만증 등
+&nbsp;&nbsp;&nbsp; - 스트레스</br>
+&nbsp;&nbsp;&nbsp; - 노화</br>
+&nbsp;&nbsp;&nbsp; - 비만증 등</br>
 
 ## INDEX.Ⅳ ___DataSets & 분석변수___
 
