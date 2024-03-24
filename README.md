@@ -61,7 +61,7 @@ import wordcloud
 ![프로젝트방향](https://github.com/seohyuny/ml_project/assets/151902232/eb27707c-fafa-484b-99ba-dacb9e104beb)
 
 
-** - ___당뇨의 발병 원인 분석___**<br>
+-  ___당뇨의 발병 원인 분석___**<br>
 
 &nbsp;&nbsp;&nbsp; 1) 유전적 원인</br>
 &nbsp;&nbsp;&nbsp; - 췌장의 베타세포 유전적 결함</br>
