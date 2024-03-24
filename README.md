@@ -23,7 +23,7 @@
 
 ## INDEX. Ⅰ ___프로젝트 Concept & 분석 라이브러리 소개___
 
-___Concept___
+### ___Concept___
 
 [환경적 요인(생활습관) 당뇨 예측]
 
@@ -57,21 +57,21 @@ import wordcloud
 
 - ##### 당뇨의 발병 원인 분석<br>
 
-&nbsp;&nbsp;&nbsp; 1) 유전적 원인</br>
- &nbsp;&nbsp;&nbsp; - 췌장의 베타세포 유전적 결함</br>
- &nbsp;&nbsp;&nbsp; - 인슐린 수용체 유전적 결함</br>
- &nbsp;&nbsp;&nbsp; - 인슐린 작용력을 감소시키는 유전자</br>
+#### &nbsp;&nbsp;&nbsp; 1) 유전적 원인</br>
+&nbsp;&nbsp;&nbsp; ○ 췌장의 베타세포 유전적 결함</br>
+&nbsp;&nbsp;&nbsp; ○ 인슐린 수용체 유전적 결함</br>
+&nbsp;&nbsp;&nbsp; ○ 인슐린 작용력을 감소시키는 유전자</br>
 
-&nbsp;&nbsp;&nbsp; 2) 환경적 원인</br>
- &nbsp;&nbsp;&nbsp; - 스트레스</br>
- &nbsp;&nbsp;&nbsp; - 노화</br>
- &nbsp;&nbsp;&nbsp; - 비만증 </br>
- &nbsp;&nbsp;&nbsp; - 운동부족</br>
- &nbsp;&nbsp;&nbsp; - 감염</br>
- &nbsp;&nbsp;&nbsp; - 외상</br>
- &nbsp;&nbsp;&nbsp; - 수술</br>
- &nbsp;&nbsp;&nbsp; - 임신 및 약물</br>
- &nbsp;&nbsp;&nbsp; - 나쁜 식생활</br>
+#### &nbsp;&nbsp;&nbsp; 2) 환경적 원인</br>
+&nbsp;&nbsp;&nbsp; ○ 스트레스</br>
+&nbsp;&nbsp;&nbsp; ○ 노화</br>
+&nbsp;&nbsp;&nbsp; ○ 비만증 </br>
+&nbsp;&nbsp;&nbsp; ○ 운동부족</br>
+&nbsp;&nbsp;&nbsp; ○ 감염</br>
+&nbsp;&nbsp;&nbsp; ○ 외상</br>
+&nbsp;&nbsp;&nbsp; ○ 수술</br>
+&nbsp;&nbsp;&nbsp; ○ 임신 및 약물</br>
+&nbsp;&nbsp;&nbsp; ○ 나쁜 식생활</br>
 
 ## INDEX. Ⅲ ___DataSets & 분석변수___
 
