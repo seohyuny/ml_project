@@ -55,7 +55,7 @@ import wordcloud
 ![프로젝트방향](https://github.com/seohyuny/ml_project/assets/151902232/eb27707c-fafa-484b-99ba-dacb9e104beb)
 
 
-- ##### 당뇨의 발병 원인 분석<br>
+- ### 당뇨의 발병 원인 분석<br>
 
 #### &nbsp;&nbsp;&nbsp; 1) 유전적 원인</br>
 &nbsp;&nbsp;&nbsp; ○ 췌장의 베타세포 유전적 결함</br>
@@ -80,13 +80,13 @@ import wordcloud
   - Sample Adult file : samadult.csv, familyxx.csv
 
 
-- ##### 사전 데이터 분석
+- ### 사전 데이터 분석
   - 분석할 컬럼을 추려내기 위해 결측치 값에 fillna()함수 사용 -> 0으로 대체
   
   ![fillna](https://github.com/seohyuny/ml_project/assets/151902232/a298037d-9d0f-4432-935f-2766509c0916)
 
 
-- ##### 분석 변수
+- ### 분석 변수
 [NHIS_2018](https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm)
 
 ```
@@ -107,13 +107,13 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 
 ## INDEX. Ⅳ ___Data 전처리 (dataset 정보 및 가공)___
 
-- ##### 사용한 colunms
+- ### 사용한 colunms
   - 환경, 생활 요인에 따라 당뇨 발병률에 영향을 줄 것이라 판단
   - 성별, 연령 등 인구통계학적 요인 포함한 환경 요인별 당뇨 예측을 진행
     
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/23c10fdf-8f9e-49fd-84d2-6eebbb2bcf6e)
 
-- ##### Data perprocessing
+- ### Data perprocessing
 
 1) 기본 데이터프레임 생성
 2) EDA (탐색적 데이터 분석)
