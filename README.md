@@ -3,7 +3,7 @@
 ---
 
 
-## INDEX. Ⅰ___Team DBDBDeep 소개___
+## 👨‍👧‍👦 ___Team DBDBDeep 소개___
 
 
 ![조서현](https://github.com/seohyuny/ml_project/assets/154740829/299c4cb0-c98b-4358-b88d-c363000d818c)
@@ -14,9 +14,11 @@
 조서현 / 김유진 / 이수현
 
 ---
+## 🗒️ ___목차(INDEX)___
+&emsp;&ensp;Ⅰ. 프로젝트 Concept 및 분석 라이브러리 소개</br>&emsp;&ensp;Ⅱ. 프로젝트 방향</br>&emsp;&ensp;Ⅲ. DataSets & 분석변수</br>&emsp;&ensp;Ⅳ. Data 전처리 (dataset 정보 및 가공)</br>&emsp;&ensp;Ⅴ. Machine-Learning (Model 정보)</br>&emsp;&ensp;Ⅵ. 최종 Model</br>&emsp;&ensp;Ⅶ. 비스화</br>&emsp;&ensp;
 
 
-## INDEX. Ⅱ___프로젝트 Concept 및 분석 라이브러리 소개___
+## INDEX.Ⅰ ___프로젝트 Concept 및 분석 라이브러리 소개___
 
 ___Concept___
 
@@ -44,7 +46,7 @@ import wordcloud
 
 --- 
 
-## INDEX. Ⅲ___프로젝트 방향___
+## INDEX.Ⅱ ___프로젝트 방향___
 
 
 ![프로젝트방향](https://github.com/seohyuny/ml_project/assets/151902232/eb27707c-fafa-484b-99ba-dacb9e104beb)
@@ -62,7 +64,7 @@ import wordcloud
 &nbsp;&nbsp;&nbsp; - 노화</br>
 &nbsp;&nbsp;&nbsp; - 비만증 등</br>
 
-## INDEX.Ⅳ ___DataSets & 분석변수___
+## INDEX.Ⅲ ___DataSets & 분석변수___
 
 - ##### DataSets
   - [NHIS_2018] <https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm>
@@ -87,7 +89,7 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 
 
 
-## INDEX.Ⅴ ___Data 전처리 (dataset 정보 및 가공)___
+## INDEXⅣ ___Data 전처리 (dataset 정보 및 가공)___
 
 - ##### 사용한 colunms
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/23c10fdf-8f9e-49fd-84d2-6eebbb2bcf6e)
@@ -101,7 +103,7 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 5) 컬럼명 재구성
 6) 스케일링 및 데이터 csv 저장
 
-## INDEX.Ⅵ ___Machine-Learning (Model 정보)___
+## INDEX.Ⅴ ___Machine-Learning (Model 정보)___
 
 1) SVC
 2) Decisiontree
@@ -114,7 +116,7 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/eb76dd4a-e5e5-4160-b4d5-5909615dcd2c)  ![image](https://github.com/seohyuny/ml_project/assets/154740829/47010c45-f1db-40d7-9f5c-d181a994c172)
 
 
-## INDEX.Ⅶ ___최종 Model___
+## INDEX.Ⅵ ___최종 Model___
 
 - Adaboost
 
@@ -122,7 +124,7 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/27294c40-a89d-4278-a5df-8e485e6a2c67)
 
 
-## INDEX.Ⅷ ___서비스화___
+## INDEX.Ⅶ ___서비스화___
 
 ![image](https://github.com/seohyuny/ml_project/assets/154740829/835449d1-f8f5-4977-967b-8868b5a81c97)
 
