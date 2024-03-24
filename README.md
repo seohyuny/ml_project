@@ -15,7 +15,7 @@
 
 ---
 ## 🗒️ ___목차(INDEX)___
-&emsp;&ensp;Ⅰ. 프로젝트 Concept 및 분석 라이브러리 소개</br>&emsp;&ensp;Ⅱ. 프로젝트 방향</br>&emsp;&ensp;Ⅲ. DataSets & 분석변수</br>&emsp;&ensp;Ⅳ. Data 전처리 (dataset 정보 및 가공)</br>&emsp;&ensp;Ⅴ. Machine-Learning (Model 정보)</br>&emsp;&ensp;Ⅵ. 최종 Model</br>&emsp;&ensp;Ⅶ. 비스화</br>&emsp;&ensp;
+### &emsp;&ensp; Ⅰ. 프로젝트 Concept 및 분석 라이브러리 소개</br> &emsp;&ensp;Ⅱ. 프로젝트 방향</br> &emsp;&ensp;Ⅲ. DataSets & 분석변수</br> &emsp;&ensp;Ⅳ. Data 전처리 (dataset 정보 및 가공)</br> &emsp;&ensp;Ⅴ. Machine-Learning (Model 정보)</br> &emsp;&ensp;Ⅵ. 최종 Model</br> &emsp;&ensp;Ⅶ. 비스화</br>&emsp;&ensp;
 
 
 ## INDEX.Ⅰ ___프로젝트 Concept 및 분석 라이브러리 소개___
