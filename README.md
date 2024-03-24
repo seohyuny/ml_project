@@ -75,7 +75,7 @@ import wordcloud
 
 ## INDEX. Ⅲ ___DataSets & 분석변수___
 
-- ##### DataSets
+- ### DataSets
   - [NHIS_2018] <https://www.cdc.gov/nchs/nhis/nhis_2018_data_release.htm>
   - Sample Adult file : samadult.csv, familyxx.csv
 
