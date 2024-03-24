@@ -2,7 +2,7 @@
 ### 당뇨병 예측 머신러닝 분석 프로젝트 입니다.
 ---
 
-___Team DBDBDeep 소개___
+INDEX. Ⅰ___Team DBDBDeep 소개___
 
 
 ![조서현](https://github.com/seohyuny/ml_project/assets/154740829/299c4cb0-c98b-4358-b88d-c363000d818c)
@@ -13,6 +13,14 @@ ___Team DBDBDeep 소개___
 조서현 / 김유진 / 이수현
 
 ---
+
+INDEX. Ⅱ___프로젝트 방향___
+
+![프로젝트방향](https://github.com/seohyuny/ml_project/assets/151902232/eb27707c-fafa-484b-99ba-dacb9e104beb)
+
+**당뇨의 발병 원인 분석**</br>
+&nbsp;&nbsp;&nbsp; 1) 유전적 원인 </br>
+&nbsp;&nbsp;&nbsp; 2) 환경적 원</br>
 
 ___Concept___
 
