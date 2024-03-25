@@ -120,7 +120,7 @@ df_a = df_a[['SEX','AGE_P','R_MARITL','DIBEV1','HYPEV','PREGNOW','DEP_2','AFLHCA
 3) 설문 답변 1/2로 정형화
 4) null값 및 이상치 데이터 정제
 5) 컬럼명 재구성
-   - df_01, df_02, df_03, df_04, df_05, df_06으로 재구
+   - df_01, df_02, df_03, df_04, df_05, df_06으로 재구성
 7) 스케일링 및 데이터 csv 저장
    - one-hot encoding
    - _1 대신 _yes로 변경
